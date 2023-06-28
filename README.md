@@ -1,6 +1,8 @@
 <div align="right">
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjhyoo1203&count_bg=%23C6D2FF&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjhyoo1203&count_bg=%23C6D2FF&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 </div>
+
+<br>
 
 <div align="center">
   
@@ -8,9 +10,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Jhyoo's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
-  <div align="center">
-    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wogusdbkim)](https://solved.ac/wogusdbkim/)
-  </div>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wogusdbkim)](https://solved.ac/wogusdbkim/)
   
   <h3> ⚔ Skill </h3>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
