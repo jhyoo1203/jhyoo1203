@@ -9,7 +9,7 @@
 <!-- header -->
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Welcome%20to%20Jhyoo's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wogusdbkim)](https://solved.ac/wogusdbkim)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wogusdbkim)](https://solved.ac/wogusdbkim/)
 
   #
   
