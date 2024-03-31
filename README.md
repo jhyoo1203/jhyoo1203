@@ -33,9 +33,9 @@
   #
   
   <h3> 🪪 License and Certificate </h3>
-    ![aws-certified-solutions-architect-associate](https://github.com/jhyoo1203/jhyoo1203/assets/68884608/a82cf0b1-df7b-444a-8966-8d925e499770)
-    ![red-hat-certified-system-administrator-rhcsa](https://github.com/jhyoo1203/jhyoo1203/assets/68884608/9a6e3b2c-add5-41a3-adbf-f7e1e6b1806d)
-    ![microsoft-certified-azure-ai-fundamentals](https://github.com/jhyoo1203/jhyoo1203/assets/68884608/63ea7e98-da4b-4288-abf4-c2e73b701631)
+    <a href="https://www.credly.com/badges/c30514e3-3426-4968-879d-79857399fb35/public_url"><img src="https://github.com/jhyoo1203/jhyoo1203/assets/68884608/a82cf0b1-df7b-444a-8966-8d925e499770" alt="aws-certified-solutions-architect-associate" width="100" height="100"/></a>
+    <a href="https://www.credly.com/badges/91eb5305-63ff-4f8b-8a69-02160f9a02c8/public_url"><img src="https://github.com/jhyoo1203/jhyoo1203/assets/68884608/9a6e3b2c-add5-41a3-adbf-f7e1e6b1806d" alt="red-hat-certified-system-administrator-rhcsa" width="100" height="100"/></a>
+    <a href="https://www.credly.com/badges/b35910cd-1ba3-4dc4-9ef2-b00ca2225c5b/public_url"><img src="https://github.com/jhyoo1203/jhyoo1203/assets/68884608/63ea7e98-da4b-4288-abf4-c2e73b701631" alt="microsoft-certified-azure-ai-fundamentals" width="100" height="100"/></a>
   
   #
   
