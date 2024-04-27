@@ -32,6 +32,21 @@
 
   #
   
+  <H2> 🏆 Prize </H2>
+  
+  | 날짜 | 대회명 | 수상 | 주최, 주관, 후원 |
+  | - | - | :-: | - |
+  |  2024.04 | 2024 AI 기반 의료 데이터 분석 경진대회(팀) | 대상 | 연세대학교 부총장상 |
+  |  2024.04 | 2024 AI 기반 의료 데이터 분석 경진대회(개인) | 1위 | 인텔코리아 부사장상 |
+  |  2024.04 | 인텔코리아 AI 교육 | 수료 | 인텔코리아 |
+  |  2024.03 | (재)미래와소프트웨어와 함께하는 제3회 아이디어 해커톤 | 최종발표 대상자 | 미래와소프트웨어, 이티에듀 |
+  |  2023.11 | 프로그래밍 경진대회(3, 4학년) | 장려상 | GWNU CSE |
+  |  2024.08 | RH134 | 수료 | Red Hat |
+  |  2024.04 | RH124 | 수료 | Red Hat |
+  |  2019.10 | 프로그래밍 경진대회(1학년) | 우수상 | GWNU CSE |
+
+  #
+  
   <h3> 🪪 License and Certificate </h3>
     <a href="https://www.credly.com/badges/c30514e3-3426-4968-879d-79857399fb35/public_url"><img src="https://github.com/jhyoo1203/jhyoo1203/assets/68884608/a82cf0b1-df7b-444a-8966-8d925e499770" alt="aws-certified-solutions-architect-associate" width="100" height="100"/></a>
     <a href="https://www.credly.com/badges/91eb5305-63ff-4f8b-8a69-02160f9a02c8/public_url"><img src="https://github.com/jhyoo1203/jhyoo1203/assets/68884608/9a6e3b2c-add5-41a3-adbf-f7e1e6b1806d" alt="red-hat-certified-system-administrator-rhcsa" width="100" height="100"/></a>
