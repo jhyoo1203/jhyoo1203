@@ -67,6 +67,6 @@
 <div align="center">
   <h3> ⛏ Stats </h3>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhyoo1203&exclude_repo=dkssud8150.github.io&layout=compact&theme=default" /><br><br>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhyoo1203&show_icons=true&theme=default)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhyoo1203&exclude_repo=dkssud8150.github.io&layout=compact&theme=buefy" /><br><br>
+  ![Jhyoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhyoo1203&count_private=true&show_icons=true&theme=buefy)
 </div>
