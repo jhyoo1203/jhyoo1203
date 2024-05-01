@@ -72,5 +72,6 @@
   <h3> ⛏ Stats </h3>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhyoo1203&exclude_repo=dkssud8150.github.io&layout=compact&theme=buefy" /><br><br>
-  ![Jhyoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhyoo1203&count_private=true&show_icons=true&theme=buefy)
+  ![jhyoo1203's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jhyoo1203&theme=buefy&hide_border=true)
+  <br><br>
 </div>
