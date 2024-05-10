@@ -73,5 +73,5 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhyoo1203&exclude_repo=dkssud8150.github.io&layout=compact&theme=buefy" /><br><br>
   ![jhyoo1203's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jhyoo1203&theme=buefy&hide_border=true)
-  <br><br>
+  <br>
 </div>
