@@ -63,14 +63,14 @@
   <h3> 📖 Studying </h3>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white"/><br>
     <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=Node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Handlebars-000000?style=flat-square&logo=Handlebars.js&logoColor=white"/><br>
-    <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white"/><br>
     <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
     <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=Redis&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
   <br>
   
   #
@@ -82,3 +82,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhyoo1203&exclude_repo=dkssud8150.github.io&layout=compact&theme=buefy" alt="Top Languages"/><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhyoo1203&theme=buefy&hide_border=true" alt="jhyoo1203's Streak"/>
 </div>
+
