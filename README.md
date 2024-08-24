@@ -8,8 +8,9 @@
 <div align="center">
   
 <!-- header -->
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Welcome%20to%20Jhyoo's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=50&height=250)
+
+<div align=center ><img src="https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=1EBBD7&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80jhyoo's+Github+%E3%80%80%E3%80%80"><br><br>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wogusdbkim)](https://solved.ac/wogusdbkim/)
 
   #
