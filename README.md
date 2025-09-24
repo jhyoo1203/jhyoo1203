@@ -14,7 +14,7 @@
   
   | 날짜 | 회사명 | 직무 | 맡은 업무 |
   | - | - | :-: | - |
-  |  2024.12 ~ 2024.08 | (주)미리디 | Backend Developer | 미리캔버스 API, 워커 서버, 배치 개발 |
+  |  2024.12 ~ 2024.08 | (주)미리디 | Backend Developer | 미리캔버스 API, Batch, Worker, BackOffice 개발 |
 
   #
   
