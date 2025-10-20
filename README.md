@@ -12,9 +12,9 @@
 
   <h3> 🏢 Experience </h3>
   
-  | 날짜 | 회사명 | 직무 | 맡은 업무 |
-  | - | - | :-: | - |
-  |  2024.12 ~ 2024.08 | (주)미리디 | Backend Developer | 미리캔버스 API, Batch, Worker, BackOffice 개발 |
+| 날짜 | 회사명 | 직무 | 맡은 업무 |
+| - | - | :-: | - |
+| 2024.12 ~ 2024.08 | (주)미리디 | Backend Developer | <ul><li>미리캔버스 API, Worker, Batch, BackOffice 개발</li><li>모놀리식 구조에서 MSA 전환 과정 참여</li><li>템플릿 타입 계층화 프로젝트 설계 및 구현</li><li>템플릿, 요소 다국어 처리 로직 개선</li><li>소속 도메인 DataDog 대시보드 구축 및 모니터링 지표 설정</li></ul> |
 
   #
   
