@@ -12,7 +12,7 @@
     
   | Date | Company | Service | Role |
   | :---: | --- | :---: | :---: |
-  | 2026.09 ~ Present | <img src="./assets/companies/brainz-company.png" width="20" height="20" alt="Brainz Company"> **Brainz Company** | <img src="./assets/services/zenius.png" height="24" alt="Zenius"> | Backend Developer |
+  | 2026.09 ~ Present | <img src="./assets/companies/brainzcompany.png" width="20" height="20" alt="Brainz Company"> **Brainz Company** | <img src="./assets/services/zenius.png" height="24" alt="Zenius"> | Backend Developer |
   | 2025.03 ~ 2025.08 | <img src="./assets/companies/miridih.png" width="20" height="20" alt="MIRI.DIH"> **MIRI.DIH** | <img src="./assets/services/miricanvas.png" height="24" alt="MiriCanvas"> | Backend Developer |
 
   #
