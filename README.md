@@ -6,41 +6,39 @@
 
 <div align=center ><img src="https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=1EBBD7&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80jhyoo's+Github+%E3%80%80%E3%80%80"><br><br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wogusdbkim)](https://solved.ac/wogusdbkim/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhyoo1203)](https://solved.ac/jhyoo1203/)
 
   #
 
   <h3> 🏢 Experience </h3>
-  
-| 날짜 | 회사명 | 직무 | 맡은 업무 |
-| - | - | :-: | - |
-| 2024.12 ~ 2025.08 | (주)미리디 | Backend Developer | <ul><li>미리캔버스 API, Worker, Batch, BackOffice 개발</li><li>모놀리식 구조에서 MSA 전환 과정 참여</li><li>템플릿 타입 계층화 프로젝트 설계 및 구현</li><li>템플릿, 요소 다국어 처리 로직 개선</li><li>소속 도메인 DataDog 대시보드 구축 및 모니터링 지표 설정</li></ul> |
+    
+  | 날짜 | 회사명 | 직무 |
+  | :---: | --- | :---: |
+  | 2026.09 ~ 재직 중 | **브레인즈컴퍼니** | Backend Developer |
+  | 2025.03 ~ 2025.08 | **미리디** | Backend Developer |
 
   #
+  <h3>⚔ Skills</h3>
   
-  <h3> ⚔ Skill </h3>
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/><br>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white"/><br>
-    <img src="https://img.shields.io/badge/RHEL9-EE0000?style=flat-square&logo=redhat&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/><br>
+  <b>Backend</b><br>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-437291?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
+  
+  <b>Data</b><br>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white"/>
+  
+  <b>Infrastructure & Observability</b><br>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white"/>
   <br>
-
-  #
-  
-  <H3> 🏆 Prize </H3>
-  
-  | 날짜 | 대회명 | 수상 | 주최, 주관, 후원 |
-  | - | - | :-: | - |
-  |  2024.04 | 2024 AI 기반 의료 데이터 분석 경진대회(팀) | 대상 | 연세대학교 미래캠퍼스 부총장상 |
-  |  2024.04 | 2024 AI 기반 의료 데이터 분석 경진대회(개인) | 1위 | 인텔코리아 대표이사상 |
-  |  2024.03 | 미래와소프트웨어와 함께하는 제3회 아이디어 해커톤 | 최종발표 대상자 | 미래와소프트웨어, 이티에듀 |
-  |  2023.11 | 프로그래밍 경진대회(3, 4학년) | 장려상 | GWNU CSE |
-  |  2019.10 | 프로그래밍 경진대회(1학년) | 우수상 | GWNU CSE |
 
   #
   
@@ -50,17 +48,6 @@
     <a href="https://www.credly.com/badges/b35910cd-1ba3-4dc4-9ef2-b00ca2225c5b/public_url"><img src="https://github.com/jhyoo1203/jhyoo1203/assets/68884608/63ea7e98-da4b-4288-abf4-c2e73b701631" alt="microsoft-certified-azure-ai-fundamentals" width="100" height="100"/></a>
     <a href="https://github.com/jhyoo1203/jhyoo1203/assets/68884608/6a5d959c-3cad-4db7-99d1-1c3a8dfb4a7b"><img src="https://github.com/jhyoo1203/jhyoo1203/assets/68884608/d157f7a5-3b0f-4f53-bb36-75f8e4d4b8f8" alt="Information Processing Engineer" width="100" height="100"/></a>
     <a href="https://www.credly.com/badges/c04670ad-1a5d-41da-bba7-d50fbf30555d/public_url"><img src="https://github.com/user-attachments/assets/c636d6e6-8ada-4eaa-b7b7-245e0817071f" alt="Information Processing Engineer" width="100" height="100"/></a>
-  
-  #
-
-  <H3> 📒 Education </H3>
-  
-  | 날짜 | 교육명 | 주최, 주관, 후원 |
-  | - | - | :-: |
-  |  2024.10.15. ~ 2024.11.11. | 우아한테크코스 7기 프리코스 | (주)우아한형제들 |
-  |  2024.04.01. ~ 2024.04.10. | AI 기반 의료 데이터 분석 교육 | 인텔코리아 |
-  |  2023.09.11. ~ 2024.01.13. | RH134 | Red Hat |
-  |  2023.09.11. ~ 2024.01.13. | RH124 | Red Hat |
   
   #
 </div>
