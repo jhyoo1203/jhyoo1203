@@ -6,16 +6,14 @@
 
 <div align=center ><img src="https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=1EBBD7&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80jhyoo's+Github+%E3%80%80%E3%80%80"><br><br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhyoo1203)](https://solved.ac/jhyoo1203/)
-
   #
 
   <h3> 🏢 Experience </h3>
     
-  | 날짜 | 회사명 | 직무 |
+  | Date | Company | Role |
   | :---: | --- | :---: |
-  | 2026.09 ~ 재직 중 | **브레인즈컴퍼니** | Backend Developer |
-  | 2025.03 ~ 2025.08 | **미리디** | Backend Developer |
+  | 2026.09 ~ Present | <img src="./assets/companies/brainz-company.png" width="20" height="20" alt="Brainz Company"> **Brainz Company** | Backend Developer |
+  | 2025.03 ~ 2025.08 | <img src="./assets/companies/miridih.png" width="20" height="20" alt="Miridih"> **Miridih** | Backend Developer |
 
   #
   <h3>⚔ Skills</h3>
@@ -51,4 +49,3 @@
   
   #
 </div>
-
